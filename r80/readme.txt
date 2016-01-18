@@ -28,5 +28,5 @@ This program is tested on the following platforms
  2. Ubuntu 14.04, Python 3.4, pySerial 2.7
 
 Usage : python mimasconfig.py <PORT> <Binary File>
-Example (Windows) : python mimasconfig.py /dev/ttyACM0 mimas.bin
-Example (Ubuntun 14.04) : python3 mimasconfig.py COM3 mimas.bin
+Example (Windows) : python mimasconfig.py COM3 mimas.bin
+Example (Ubuntun 14.04) : python3 mimasconfig.py /dev/ttyACM0 mimas.bin
